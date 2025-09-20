@@ -1,11 +1,6 @@
 [deps]
-Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
-IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
-Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
-Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
-PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
-Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
 Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
-PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
